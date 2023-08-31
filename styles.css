@@ -10,7 +10,7 @@ body {
 
 /* Header styles */
 .header {
-    background-image: url('header-background.jpg');
+    background-image: url('background.png');
     background-size: cover;
     background-position: center;
     display: flex;
